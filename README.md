@@ -1,6 +1,6 @@
 # Recommendation System for Posts in Social Network
 
-Hello, everyone! This is my very first project focusing on machine learning and APIs. I hope it proves useful for those who are still learning about ML, like I am, and want to understand how ML can be implemented to solve real-world problems. This project serves as an example of how to achieve this.
+Hello, everyone! This project is focusing on machine learning and APIs. I hope it proves useful for those who are still learning about ML, and want to understand how ML can be implemented to solve real-world problems. This project serves as an example of how to achieve this.
 
 ## Project Overview
 
